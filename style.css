@@ -1,0 +1,58 @@
+*{
+  padding: 0px;
+  margin: 0px auto;
+}
+
+body{
+  background-color:  white;
+}
+
+/* CONTAINER PART */
+
+#container{
+  background-color: white;
+  width: 1004px;
+}
+
+/* TOP HEADER PART */
+
+#top-header{
+  height: 250px;
+  margin-top: 10px;
+  position: relative;
+}
+
+img.logo{
+  position: absolute;
+  left: 0px;
+}
+
+#contact-box{
+  position: absolute;
+  right: 20px;
+  top: 70px;
+  text-align: right;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-size: 17px;
+}
+
+td.description{
+  color:  #cc0000;
+  font-weight: bold;
+}
+
+.main-content-text{
+  text-align: justify;
+}
+
+.producent-logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.photo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto; 
+}
